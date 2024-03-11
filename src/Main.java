@@ -1,7 +1,5 @@
-import jdk.jshell.JShell;
 import java.util.*;
 
-//testafter reinstalling git
 
 public class Main {
     //checks if trips with the current sal weight are possible
